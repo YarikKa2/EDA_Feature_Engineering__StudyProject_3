@@ -16,17 +16,17 @@
 
 ## Использование
 Для работы данной программы потребуется импортировать несколько библиотек: <br>
-- Для определения пути до директории
+- Для определения пути до директории <br>
 os ``` import os ``` <br>
 
-- Для манипуляций с regex
+- Для манипуляций с regex <br>
 re ``` import re ``` <br>
 
-- Для манипуляций с датафреймами
+- Для манипуляций с датафреймами <br>
 pandas ``` import pandas as pd ``` <br>
 numpy ``` import numpy as np ``` <br>
 
-- Для отрисовки инфографики
+- Для отрисовки инфографики<br>
 seaborn ``` import seaborn as sns ``` <br>
 matplotlib ```from matplotlib import pyplot as plt``` <br>
 
