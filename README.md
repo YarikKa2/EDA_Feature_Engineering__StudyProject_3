@@ -1,1 +1,49 @@
-# EDA_Feature_Engineering__StudyProject_3
+# PROJECT-3. EDA + Feature Engineering
+Очистка датасета для последующего использования в модели машинного обучени.  <br>
+Цель проекта заключается в построении модели, напраленной на предсказание рейтинга отеля. 
+
+## Содержание
+- [Технологии](#технологии)
+- [Использование](#Использование)
+- [Команда проекта](#команда-проекта)
+- [Дополнительно](#Дополнительно)
+
+## Технологии
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Python 3.9.10](https://www.python.org/downloads/release/python-3910/)
+
+
+
+## Использование
+Для работы данной программы потребуется импортировать несколько библиотек: <br>
+- Для определения пути до директории
+os ``` import os ``` <br>
+
+- Для манипуляций с regex
+re ``` import re ``` <br>
+
+- Для манипуляций с датафреймами
+pandas ``` import pandas as pd ``` <br>
+numpy ``` import numpy as np ``` <br>
+
+- Для отрисовки инфографики
+seaborn ``` import seaborn as sns ``` <br>
+matplotlib ```from matplotlib import pyplot as plt``` <br>
+
+- Для статистических оценок и преобразования данных
+stats ``` import scipy.stats as stats ``` <br>
+sklearn ``` from sklearn.preprocessing import RobustScaler ``` <br>
+sklearn ``` from sklearn.preprocessing import StandardScaler ``` <br>
+sklearn ``` from sklearn.preprocessing import PowerTransformer ``` <br>
+sklearn ``` from sklearn.ensemble import RandomForestRegressor ``` <br>
+sklearn ``` from sklearn import metrics ``` <br>
+  
+<br>
+Если у вас отсутвует какой либо из вышеперечисленных пакетов, установите его. <br>
+В терминале введите ``` pip install 'название_пакета_без_кавычек' ```<br>
+
+
+## Команда проекта
+
+[Капущак Ярослав](https://github.com/YarikKa2)
+
