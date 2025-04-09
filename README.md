@@ -43,8 +43,8 @@ sklearn ``` from sklearn import metrics ``` <br>
 В терминале введите ``` pip install 'название_пакета_без_кавычек' ```<br>
 
 ## Данные
+Данные для анализа доступны по [ссылке](https://drive.google.com/drive/folders/1TtP1K9v5yFMaDtFHeX7sIub3dWDzTxR5?usp=drive_link)  <br>
 
-https://drive.google.com/drive/folders/1TtP1K9v5yFMaDtFHeX7sIub3dWDzTxR5?usp=drive_link
 
 ## Команда проекта
 
