@@ -44,7 +44,7 @@ sklearn ``` from sklearn import metrics ``` <br>
 
 ## Данные
 Данные для анализа доступны по [ссылке](https://drive.google.com/drive/folders/1TtP1K9v5yFMaDtFHeX7sIub3dWDzTxR5?usp=drive_link)  <br>
-Для корректной работы кода создайте в корневой директории папку с названием **dataset**
+Для корректной работы кода создайте в корневой директории папку с названием **data_set**
 
 ## Команда проекта
 
