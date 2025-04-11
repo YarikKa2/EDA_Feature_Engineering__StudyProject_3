@@ -19,24 +19,24 @@
 1. Для определения пути до директории <br>
 * os (``` import os ```) <br>
 
-- Для манипуляций с regex <br>
-re ``` import re ``` <br>
+2. Для манипуляций с regex <br>
+* re (``` import re ```) <br>
 
-- Для манипуляций с датафреймами <br>
-pandas ``` import pandas as pd ``` <br>
-numpy ``` import numpy as np ``` <br>
+3. Для манипуляций с датафреймами <br>
+* pandas (``` import pandas as pd ```) <br>
+* numpy (``` import numpy as np ```) <br>
 
-- Для отрисовки инфографики<br>
-seaborn ``` import seaborn as sns ``` <br>
-matplotlib ```from matplotlib import pyplot as plt``` <br>
+4. Для отрисовки инфографики<br>
+* seaborn (``` import seaborn as sns ```) <br>
+* matplotlib (```from matplotlib import pyplot as plt```) <br>
 
-- Для статистических оценок и преобразования данных
-stats ``` import scipy.stats as stats ``` <br>
-sklearn ``` from sklearn.preprocessing import RobustScaler ``` <br>
-sklearn ``` from sklearn.preprocessing import StandardScaler ``` <br>
-sklearn ``` from sklearn.preprocessing import PowerTransformer ``` <br>
-sklearn ``` from sklearn.ensemble import RandomForestRegressor ``` <br>
-sklearn ``` from sklearn import metrics ``` <br>
+5. Для статистических оценок и преобразования данных
+stats (``` import scipy.stats as stats ```) <br>
+RobustScaler (``` from sklearn.preprocessing import RobustScaler ```) <br>
+StandardScaler (``` from sklearn.preprocessing import StandardScaler ```) <br>
+PowerTransformer (``` from sklearn.preprocessing import PowerTransformer ```) <br>
+RandomForestRegressor (``` from sklearn.ensemble import RandomForestRegressor ```) <br>
+metrics (``` from sklearn import metrics ```) <br>
   
 <br>
 Если у вас отсутвует какой либо из вышеперечисленных пакетов, установите его. <br>
